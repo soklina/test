@@ -1,0 +1,5 @@
+@if(!empty($video))
+
+
+  
+@endif
